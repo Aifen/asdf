@@ -126,7 +126,7 @@ struct {
 	{  26,     KEY_X        },   // X
 	{  12,     KEY_Y        },   // y
 	{   5,     KEY_START    },   //start
-	{  10,     KEY_L        },   //L
+	{  25,     KEY_L        },   //L
 	{  18,     KEY_R        },   //R
  	// For credit/start/etc., use USB keyboard or add more buttons.
 #else
